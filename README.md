@@ -8,3 +8,5 @@ Boogle game which coded fully in python
 4. The file is inclusive in the project root folder with english word list
 
 5. Make all the environment set and run the program..... 
+
+6. Todo need to return data structure format from the searcher function
